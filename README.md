@@ -1,2 +1,2 @@
 # Galo
-jungle joker
+srongerthan
