@@ -1,8 +1,59 @@
-.row{
-    background-image: url(/img/people-at-school-student-raising-hand-and-asking-question-to-professor-during-class-in-college-law-school-university-of-havana-cuba_ejfmqgrg__F0002.png)no-repeat center center 
-        fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+body{
+    background-color: black;
 }
+#bgimg{
+/*
+    background: url("/img/Academic%20Dress%202.jpg") no-repeat center center 
+        fixed;
+*/
+    
+    
+}
+#gre{
+    font-size: 60px;
+    color: burlywood;
+    margin-left: 230px;
+    margin-top: 70px;
+}
+#qua{
+    color: burlywood;
+    margin-left: 390px;
+}
+#gr{
+    color: white;
+    font-size: 30px;
+}
+#call{
+    color: burlywood;
+}
+#pr{
+    margin-top: 40px;
+}
+#stu{
+    color: blue;
+}
+#try{
+    display: block;
+}
+#box{
+    background-color: burlywood;
+    padding: 0 4em;
+}
+.content{
+    display: grid;
+    max-width: 980px;
+    grid-template-columns: repeat(3,1fr);
+    grid-template-rows: repeat(5,minmax(90px,auto));
+    grid-gap: 10px;
+    margin-left: 120px;
+}
+.content div{
+    background-color: burlywood;
+}
+/*
+#rec{
+    width: 70%;
+    height: 40%;
+    border-color: orange;
+    
+}*/
