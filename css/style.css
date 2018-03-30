@@ -39,17 +39,34 @@ body{
     background-color: burlywood;
     padding: 0 4em;
 }
-.content{
-    display: grid;
-    max-width: 980px;
-    grid-template-columns: repeat(3,1fr);
-    grid-template-rows: repeat(5,minmax(90px,auto));
-    grid-gap: 10px;
-    margin-left: 120px;
+#boc{
+    margin-left: 5px;
+    margin-right: 5px;
+    background: burlywood;
 }
-.content div{
-    background-color: burlywood;
+#int{
+    margin-top: 100px;
+    font-size: 30px;
 }
+#sh{
+    background: white;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.fa{
+    font-size: 70px;
+    width: 30px;
+    border-radius: 50%;
+}
+#fu{
+    margin-left: 5px;
+    margin-right: 5px;
+}
+/*
+#two{
+    grid-row: 2/5;
+}
+*/
 /*
 #rec{
     width: 70%;
