@@ -1,7 +1,7 @@
  var d
     var e
     var f
-//    var g
+    var g
 //    var ave 
 //    var h
 //
