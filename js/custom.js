@@ -1,6 +1,6 @@
  var d
     var e
-//    var f
+    var f
 //    var g
 //    var ave 
 //    var h
