@@ -2,9 +2,9 @@
     var e
     var f
     var g
-//    var ave 
-//    var h
-//
+    var ave 
+    var h
+
 //    d=prompt("Math grade",0)
 //    e=prompt("English grade",0)
 //    f=prompt ("History grade", 0)
