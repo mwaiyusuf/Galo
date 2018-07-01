@@ -7,7 +7,7 @@
 
     d=prompt("Math grade",0)
     e=prompt("English grade",0)
-//    f=prompt ("History grade", 0)
+    f=prompt ("History grade", 0)
 //    g=prompt("Spanish grade",0)
 //    ave=(parseFloat(d)+ parseFloat(e) + parseFloat(f) + parseFloat(g))/4
 //
