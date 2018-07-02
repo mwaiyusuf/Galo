@@ -13,7 +13,7 @@
 
     if (ave>=75)
 {
-//    h="You passed!"
+localStorage
 //}
 //    if (ave<=74)
 //{
