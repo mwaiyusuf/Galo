@@ -17,5 +17,5 @@ localStorage
 }
     if (ave<=74)
 {
-//    h="You failed!"
+    h="You failed!"
 //}
